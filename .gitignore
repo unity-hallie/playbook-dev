@@ -1,0 +1,14 @@
+# Bro engine local state
+.bro_session/
+bro_graph.sqlite
+
+# Claude local settings
+.claude/
+
+# Node
+node_modules/
+dist/
+*.log
+
+# OS
+.DS_Store
