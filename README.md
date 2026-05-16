@@ -12,6 +12,7 @@ The basic premise: agents do better when they have a *stance* to operate from, n
    - [property-based-unit-test-file.md](playbooks/property-based-unit-test-file.md) — for PBT files
    - [user-facing-code-agent.md](playbooks/user-facing-code-agent.md) — for AI agents in real-time conversation with a human user
    - [front-end-component.md](playbooks/front-end-component.md) — for front-end components as the membrane between data and human perception
+   - [api-route.md](playbooks/api-route.md) — for API routes as the border where untrusted requests become trusted operations
 4. **[examples/continuum-state-manager/](examples/continuum-state-manager/)** — a working TS/Vitest/fast-check example that validates the PBT playbook on a state manager for the indie RPG *Continuum*.
 
 ## Companion
